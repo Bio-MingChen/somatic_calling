@@ -1,0 +1,5 @@
+GetAnnoFromMerge_pipe4.6.py
+*.xlsx
+Somatic_Calling.log
+somatic_base_config.ini
+make_panel_of_normal.py
